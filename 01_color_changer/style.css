@@ -1,0 +1,27 @@
+html {
+    margin: 0;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 1px;
+    border-radius: 25px;
+    display: inline-block;
+  }
+  #orange {
+    background-color:#ff763b;
+  }
+  #blue {
+    background-color: #0093e9;
+  }
+  #green {
+    background-color: #52e305;
+  }
+  #yellow {
+    background-color: #f0f006;
+   }
